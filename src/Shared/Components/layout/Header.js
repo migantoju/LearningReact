@@ -21,6 +21,9 @@ const Header = props => {
         <li>
           <Link to="/contact">Contact</Link>
         </li>
+        <li>
+          <Link to="/coins">Coins</Link>
+        </li>
       </ul>
     </header>
   );
